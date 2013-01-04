@@ -1,0 +1,12 @@
+sam,rutgers
+jane,rutgers
+bob,rutgers
+sergei,rutgers
+kaitlin,pennstate
+aparna,pennstate
+0 1 0 0 0 0
+1 0 1 0 1 0
+0 1 0 0 0 0
+0 0 0 0 0 1
+0 0 0 0 0 0
+0 0 0 1 0 0

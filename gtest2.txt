@@ -1,0 +1,30 @@
+sam,rutgers
+jane,rutgers
+bob,rutgers
+sergei,rutgers
+kaitlin,rutgers
+samir
+aparna,rutgers
+ming,pennstate
+nick,pennstate
+ricardo,pennstate
+heather,pennstate
+michele,cornell
+rachel
+rich,ucla
+tom,ucla
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 0 1 0 1 0 0 0 0 0 0 0 0 0 0
+0 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0 1 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 1 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 1 0 0 1 0 1 1 0 0 0 0
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 1 0 1 0
